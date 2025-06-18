@@ -12,7 +12,7 @@ body{background: url(3fffc9d8fb3f9e423f7ad02f7791833898cfa0fb-4627x2603.avif);
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(102, 71, 131);
+    background-color: rgb(82, 72, 152);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -21,19 +21,19 @@ body{background: url(3fffc9d8fb3f9e423f7ad02f7791833898cfa0fb-4627x2603.avif);
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(27, 30, 72);
+    background-color: rgb(82, 72, 152);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
 .cartao__conteudo h3{
-    background-color:rgb(62, 46, 77);
+    background-color:rgb(82, 72, 152);
     text-align: left;
     padding: 0.5rem;
     position: absolute;
     margin: 0.6rem;
     border-radius: 0.6rem;
     font-size: 1vw;
-    color: rgb(213, 184, 184);
+    color: rgb(166, 185, 253);
     backface-visibility: hidden;
     
 }
