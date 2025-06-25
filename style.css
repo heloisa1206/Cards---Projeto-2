@@ -12,7 +12,7 @@ body{background: url(3fffc9d8fb3f9e423f7ad02f7791833898cfa0fb-4627x2603.avif);
 
 .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(82, 72, 152);
+    background-color: rgb(102, 98, 209);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33%-6rem);
@@ -21,7 +21,7 @@ body{background: url(3fffc9d8fb3f9e423f7ad02f7791833898cfa0fb-4627x2603.avif);
 .cartao__conteudo{
     text-align: center;
     height: 100%;
-    background-color: rgb(82, 72, 152);
+    background-color: rgb(69, 57, 148);
     transform-style: preserve-3d;
     transition: transform 300ms ease-in-out;
 }
@@ -43,12 +43,12 @@ body{background: url(3fffc9d8fb3f9e423f7ad02f7791833898cfa0fb-4627x2603.avif);
 
 }
 .cartao__conteudo__pergunta p {
-    color:  rgb(233, 199, 199);
+    color:  rgb(255, 255, 255);
     font-weight: 500;
     
 }
 .cartao__conteudo__resposta p{
-    color:  rgb(211, 95, 95);
+    color:  rgb(255, 255, 255);
     font-weight: 700;
 }
 .cartao:hover .cartao__conteudo{
